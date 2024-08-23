@@ -1,6 +1,5 @@
 ### `README.md`
 
-```markdown
 # uhflib for Go
 
 ## Overview
