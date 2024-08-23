@@ -259,7 +259,6 @@ Here's an additional section for your `uhflib` documentation that discusses alig
 
 3. **IEEE 12207 - Systems and Software Engineering—Software Life Cycle Processes**
    - **Software Development Lifecycle:** uhflib follows the guidelines of IEEE 12207, which standardizes the software development and maintenance processes. This includes planning, development, testing, deployment, and maintenance phases, ensuring that the library is developed systematically and with high quality.
-   
 ## Contribution
 
 We welcome contributions from the community! Please follow these guidelines:
