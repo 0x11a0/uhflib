@@ -1,0 +1,25 @@
+{
+    "name": "uhflib",
+    "version": "1.0.0",
+    "description": "A JavaScript library for communicating with UHF RFID readers via serial communication.",
+    "main": "uhflib/UHFReader.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lucasodra/uhflib.git"
+    },
+    "keywords": [
+      "UHF",
+      "RFID",
+      "serial",
+      "communication",
+      "reader"
+    ],
+    "author": "Lucasodra",
+    "license": "MIT",
+    "dependencies": {
+      "serialport": "^9.2.8"
+    }
+  }
