@@ -23,7 +23,7 @@
 ```xml
 <!-- Add this dependency to your pom.xml -->
 <dependency>
-    <groupId>com.github.lucasliao</groupId>
+    <groupId>com.github.lucasodra</groupId>
     <artifactId>uhflib</artifactId>
     <version>1.0.0</version>
 </dependency>
@@ -32,7 +32,7 @@
 #### Go
 
 ```bash
-go get github.com/lucasliao/uhflib
+go get github.com/lucasodra/uhflib
 ```
 
 #### JavaScript (Node.js)
@@ -56,7 +56,7 @@ pip install uhflib
 #### PHP
 
 ```bash
-composer require lucasliao/uhflib
+composer require lucasodra/uhflib
 ```
 
 ## High-Level Architecture
