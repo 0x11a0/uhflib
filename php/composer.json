@@ -1,0 +1,20 @@
+{
+    "name": "lucasodra/uhflib",
+    "description": "A PHP library for communicating with UHF RFID readers via serial communication.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucasodra",
+            "email": "hello@lucasodra.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Uhflib\\": "uhflib/"
+        }
+    }
+}
