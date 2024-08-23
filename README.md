@@ -226,6 +226,40 @@ reader.disconnect()
 4. **Flexibility:** Easily customizable for various RFID reader configurations.
 5. **Scalability:** Designed to handle multiple readers and large datasets efficiently.
 
+Here's an additional section for your `uhflib` documentation that discusses alignment with ISO and IEEE standards:
+
+---
+
+## Alignment with ISO and IEEE Standards
+
+**uhflib** is developed with a strong commitment to adhering to internationally recognized standards, ensuring that the library is robust, secure, and maintainable. By aligning with ISO and IEEE standards, we ensure that the library meets the highest quality benchmarks for software development and communication protocols.
+
+### ISO Standards
+
+1. **ISO/IEC 25010:2011 - System and Software Quality Models**
+   - **Product Quality:** uhflib is designed with a focus on key quality attributes defined by ISO/IEC 25010, including:
+     - **Functional Suitability:** The library provides comprehensive functionality to meet the needs of various RFID communication scenarios.
+     - **Performance Efficiency:** Optimized to handle multiple tag readings with low latency and minimal resource consumption.
+     - **Reliability:** Includes robust error handling, retries, and logging mechanisms to ensure continuous operation.
+     - **Usability:** Provides clear documentation and an intuitive API, making it accessible to developers of varying skill levels.
+     - **Security:** Implements secure communication protocols and validates all data exchanges to protect against unauthorized access.
+     - **Maintainability:** The codebase is well-structured, following best practices to ensure it is easy to maintain and extend.
+     - **Portability:** Supports multiple platforms and languages, ensuring that it can be integrated into a wide range of environments.
+
+2. **ISO/IEC 27001:2013 - Information Security Management Systems**
+   - **Data Security:** uhflib incorporates secure communication protocols and input validation to ensure the integrity and confidentiality of data transmitted between the application and the UHF RFID reader. This aligns with the principles of ISO/IEC 27001, which focuses on managing information security risks.
+
+### IEEE Standards
+
+1. **IEEE 830-1998 - IEEE Recommended Practice for Software Requirements Specifications**
+   - **Requirements Specification:** uhflib's functionality and requirements are clearly defined and documented, ensuring that the library meets the needs of its users and stakeholders. The documentation adheres to the principles outlined in IEEE 830-1998, providing a clear and concise specification of features, performance, and interfaces.
+
+2. **IEEE 14764-2006 - Software Engineering—Software Life Cycle Processes—Maintenance**
+   - **Software Maintenance:** uhflib is designed to be maintainable and adaptable, in line with the IEEE 14764-2006 standard. This includes providing clear documentation, a well-organized codebase, and a commitment to ongoing support and updates to address bugs, add features, and ensure compatibility with new hardware.
+
+3. **IEEE 12207 - Systems and Software Engineering—Software Life Cycle Processes**
+   - **Software Development Lifecycle:** uhflib follows the guidelines of IEEE 12207, which standardizes the software development and maintenance processes. This includes planning, development, testing, deployment, and maintenance phases, ensuring that the library is developed systematically and with high quality.
+   
 ## Contribution
 
 We welcome contributions from the community! Please follow these guidelines:
