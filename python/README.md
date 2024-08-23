@@ -109,5 +109,3 @@ We welcome contributions from the community! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-This `README.md` provides a detailed guide for using the Python implementation of `uhflib`, including installation instructions, usage examples, and an API reference. It should help developers quickly integrate UHF RFID functionality into their Python applications.
